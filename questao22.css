@@ -1,0 +1,11 @@
+.pagina {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.pagina > * {
+  padding: 16px;
+  background-color: #f1f1f1;
+  border: 1px solid #cccccc;
+}

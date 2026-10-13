@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+.pagina {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.card {
+  padding: 24px;
+  background-color: #f1f1f1;
+  border: 1px solid #cccccc;
+}

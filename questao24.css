@@ -1,0 +1,16 @@
+.faixa {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  align-content: flex-start;
+  gap: 1rem;
+  min-height: 30rem;
+  border: 2px dashed #888888;
+}
+
+.card {
+  width: 14rem;
+  padding: 1rem;
+  background-color: #f1f1f1;
+  border: 1px solid #cccccc;
+}
